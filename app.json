@@ -6,60 +6,60 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/ferdiansyah56/File-6-Sub",
+  "repository": "https://scssdwdw",
   "logo": "https://telegra.ph/file/2df3529c4b93e0516216f.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
-      "value": "5350029322:AAG308WHn08Rm0cpuehfATYZ2-BQR9qznC8"
+      "value": ""
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "UnrealZlda"
+      "value": ""
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "1977120689"
+      "value": ""
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
-      "value": "5027198970"
+      "value": ""
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": "19593289"
+      "value": ""
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": "4fb53b0fbe7f33f8062fb934d0e4a4bb"
+      "value": ""
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
-      "value": "-1001560559552"
+      "value": "-100"
     },
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-1001775095755"
+      "value": "-100"
     },
     "FORCE_SUB_CHANNEL_2": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-1001679848502"
+      "value": "-100"
     },
     "FORCE_SUB_CHANNEL_3": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-1001693042602"
+      "value": "-100"
     },
     "FORCE_SUB_CHANNEL_4": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-1001504450840"
+      "value": "-100"
     },
     "FORCE_SUB_CHANNEL_5": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-1001680710985"
+      "value": "-100"
     },
     "FORCE_SUB_GROUP": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
-      "value": "-1001517829602"
+      "value": "-100"
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
